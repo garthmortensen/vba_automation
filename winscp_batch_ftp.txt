@@ -1,0 +1,5 @@
+save as txt or .bat
+option batch abort
+option confirm off
+open sftp://email@address.com:login@ftpsite.com:21
+synchronize local C:\Program Files (x86)\Snapshot Viewer \pub\example
